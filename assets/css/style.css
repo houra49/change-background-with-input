@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.form{
+    height:20vh;
+    width:20vw;
+    margin:25% auto;
+    border:rgb(92, 91, 91) solid 1px;
+    border-radius: 10px;
+    position: relative;
+}
+#colorInputText{
+   position:absolute;
+   top:15%;
+   left:25%;
+}
+.label{
+    position:absolute;
+    top:40%;
+    left:25%;
+    font-size: 1.5em;
+    font-family: 'Lobster', cursive;
+ }
+ #colorButton{
+    position:absolute;
+    top:70%;
+    left:35%;
+    padding:0 20px;
+    background-color: rgb(15, 235, 161);
+    border: lightgrey solid 1px;
+ }
